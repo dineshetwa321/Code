@@ -1,4 +1,4 @@
-package a.misc;
+package a.string;
 public class LongConseSubstrOfStr {
     public static void main(String[] args) {
         String input = "ababcdefxyz";
