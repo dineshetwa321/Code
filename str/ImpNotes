@@ -1,0 +1,9 @@
+
+ 
+
+char[] c = str.toCharArray()
+
+char x ='x';
+int valueofCharX = x;
+
+Character.isLetter(ch) || Character.isDigit(ch)
